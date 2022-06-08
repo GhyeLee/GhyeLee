@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## Hi there!! Welcome 👋
+___
+#### Hi! My name is Jihye and. college Student! I am studying CS to be a FE. 
+___
+#### About Me
+- I am currently study at Liberty University (CS.Software Engineering). 
+- I can speak Korean and English (maybe Japanese later). 
+- I am studying Python, Java, Java Script.
 <!--
 **GhyeLee/GhyeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
