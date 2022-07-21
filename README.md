@@ -1,6 +1,6 @@
 ## Hi there!! Welcome 👋
 ___
-#### Hi! My name is Jihye and. college Student! I am studying CS to be a FE. 
+#### Hi! My name is Jihye and. college Student! I am studying CS to be a FE and Software Engineering. 
 ___
 #### About Me
 - I am currently study at Liberty University (CS.Software Engineering). 
